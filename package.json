@@ -1,7 +1,6 @@
 {
   "name": "ot-go-webapp",
-  "homepage": "https://opstree.github.io",
-  "proxy": "http://localhost:3000",
+  "homepage": "employee-portal.teckwithpratham.click",
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
